@@ -1,0 +1,42 @@
+*{
+    color: #555;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color: #2d0547;
+}
+.container{
+    width: 320px;
+    margin: 230px auto;
+    border-radius: 5px;
+    border: 2px solid #ffffff;
+}
+table{
+    width: 100%;
+    border: none;
+}
+td{
+    width: 25%;
+}
+button{
+    width: 100%;
+    height: 70px;
+    font-size: 25px;
+    background-color: rgb(50, 57, 58);
+    padding: 28px;
+    border-radius: 12px;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#inputLabel{
+    height: 100px;
+    font-size: 35px;
+    text-align: right;
+    padding-right: 10px;
+    background-color: #3a390f;
+    border-radius: 6px;
+    color:white;
+}
